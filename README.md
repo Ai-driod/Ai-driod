@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="./designer-bg.png" width="400">
-</p>
+<img src="./designer-bg.png" width="500">
 # 👋 Hi, I'm Marten Theunissen
 
 > Technical Specialist | Microsoft 365 | Azure | Intune | Exchange Online | Security | Automation
