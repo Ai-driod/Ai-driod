@@ -1,6 +1,10 @@
 <p align="center">
-  <img src="assets/designer-bg.png" alt="AI-driod profile banner" width="100%">
+  <img src="assets/designer-bg.png" alt="AI-driod profile banner" width="650">
 </p>
+
+# 👋 Hi, I'm Marten Theunissen
+
+> Technical Specialist | Microsoft 365 | Azure | Intune | Exchange Online | Security | Automation
 
 # 👋 Hi, I'm Marten Theunissen
 
