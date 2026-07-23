@@ -3,6 +3,19 @@
 # 👋 Hi, I'm Marten Theunissen
 
 > Technical Specialist | Microsoft 365 | Azure | Intune | Exchange Online | Security | Automation
+> ## ⚡ Engineering Philosophy
+
+```powershell
+$Approach = @(
+    "Evidence beats theory"
+    "Read-only before write"
+    "Root cause before workaround"
+    "Automate repetitive work"
+    "Document everything"
+)
+
+$Approach
+```
 
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Microsoft365](https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoft&logoColor=white)
