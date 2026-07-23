@@ -149,6 +149,10 @@ AI-driod represents my approach to engineering:
 - GitHub: @Ai-driod
 - LinkedIn: Coming Soon
 
+
+## Keywords
+
+Microsoft 365, Azure, Intune, Exchange Online, Entra ID, Azure Virtual Desktop, Microsoft Defender, PowerShell, Enterprise Infrastructure, Cloud Engineering, Endpoint Management, Identity Management, Security, Automation, Root Cause Analysis, Incident Response.
 ---
 
 > Created and Compiled by Marten Theunissen and his AI sidekick
