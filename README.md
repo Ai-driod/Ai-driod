@@ -9,6 +9,8 @@
 ![Intune](https://img.shields.io/badge/Intune-0078D4?style=for-the-badge)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
+
+![](https://komarev.com/ghpvc/?username=Ai-driod&color=blueviolet&style=for-the-badge)
 ---
 
 ## 🧠 About Me
