@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/designer-bg.png" alt="AI-driod profile banner" width="650">
+  <img src="./designer-bg.png" alt="AI-driod profile banner" width="900">
 </p>
 # 👋 Hi, I'm Marten Theunissen
 
