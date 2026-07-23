@@ -14,6 +14,16 @@
 
 ## 🧠 About Me
 
+## 🔭 Current Focus
+
+- Microsoft 365
+- Azure Engineering
+- Intune Architecture
+- PowerShell Automation
+- Security & Compliance
+- Root Cause Analysis
+- AI-Assisted Operations
+
 I'm a Technical Specialist focused on Microsoft cloud platforms, infrastructure, endpoint management, security, automation and enterprise troubleshooting.
 
 My approach is simple:
