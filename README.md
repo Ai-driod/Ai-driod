@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./designer-bg.png" width="500">
+  <img src="./designer-bg.png" width="400">
 </p>
 # 👋 Hi, I'm Marten Theunissen
 
