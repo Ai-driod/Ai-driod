@@ -1,6 +1,6 @@
 <img src="./designer-bg.png" width="400">
 
-# 👋 Hi, I'm Marten Theunissen
+# 👋
 
 > Technical Specialist | Microsoft 365 | Azure | Intune | Exchange Online | Security | Automation
 > ## ⚡ Engineering Philosophy
