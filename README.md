@@ -1,4 +1,4 @@
-<img src="./designer-bg.png" width="400">
+<img src="./darkwing_duck_by_uncannyknack_dftvv4h-fullview.jpg" width="400">
 
 # 👋
 
